@@ -1,0 +1,3 @@
+[submodule "lib/modul1"]
+	path = lib/modul1
+	url = https://github.com/kasia-ta/modul1.git
